@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">stockapp</string>
+
+    <string name="tab_stocks_title">Stocks</string>
+    <string name="tab_watchlist_title">Watchlist</string>
+    <string name="favorite_empty_title">No stocks added in watchlist</string>
+</resources>
