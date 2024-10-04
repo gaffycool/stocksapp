@@ -26,7 +26,8 @@ The project is divided into several modules, including:
  
 Diagram of Stock App Archetecture:
 
-![stock app diagram](https://github.com/user-attachments/assets/f3055f05-afae-439c-87fa-1d97578b49d3)
+![stock app diagram](https://github.com/user-attachments/assets/f5182271-c5bc-4400-9a6f-d116adb2b590)
+
 
 
 The project follows a layered architecture approach, with each layer (presentation, domain, repository and data) having its own set of responsibilities and being completely decoupled from the other layers. The communication between the layers is done through well-defined interfaces, allowing for easy testing and future modifications.
