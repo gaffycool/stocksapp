@@ -23,7 +23,7 @@ interface ApiService {
 
     companion object {
         const val BASE_URL = "https://api.twelvedata.com"
-        const val API_KEY= "b4504eae3b444104a6504719dd8531bc"
+        const val API_KEY= "b31d51552afc4613ab55b463e6a152c7"
 
         fun create(): ApiService {
             val logger = HttpLoggingInterceptor().apply { level = Level.BODY }
