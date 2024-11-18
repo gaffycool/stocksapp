@@ -39,3 +39,6 @@ https://api.twelvedata.com/stocks
 
 Unit test coverage 100% for VM and repository
 
+Proprietary License: This project is copyrighted and all rights are reserved. No use, redistribution, or modification is permitted without explicit permission.
+
+Copyright (c) 2024-2025 [@GaffyCool]. All rights reserved. This software is proprietary and cannot be used, modified, or redistributed without explicit permission from the author. No warranties are provided, and use of this software is entirely at your own risk.
